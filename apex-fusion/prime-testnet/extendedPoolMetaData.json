@@ -1,0 +1,15 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://<...>/blink-logo.png",
+    "url_png_logo": "https://<...>/blink-labs-logo.png",
+    "social": {
+      "twitter_handle": "@blinklabs_io",
+      "github_handle": "blinklabs-io"
+    },
+    "about": {
+      "me": "https://blinklabs.io",
+      "server": "Pioneering Open Source Technology for a Decentralized Tomorrow",
+      "company": "Blink Labs"
+    }
+  }
+}
